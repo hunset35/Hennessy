@@ -1,0 +1,16 @@
+*{
+  font-family: Helvetica, Tahoma, Arial, "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei";
+}
+
+.header{
+  padding-top: 90px;
+  padding-bottom: 120px;
+  background-image: url(../images/header_bg.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+}
